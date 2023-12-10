@@ -20,7 +20,7 @@ Docker is a great tool to learn since you can quickly and reliabily run your cod
 
    ```
    git clone git@github.com:mbigras/hello-world.git
-   cd hello
+   cd hello-world
    ```
 
 1. Build your Docker image.
